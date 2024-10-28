@@ -1,6 +1,6 @@
 # Portfolio of Ammar Aamir
 
-<img src ="https://github.com/CodeVinayak/CodeVinayak/blob/5920a79f4c5977332a67caf91125241cf0fc46b5/www.vinayaksingh.in.png" />
+<img src ="https://github.com/ammaraamir39/portfolio/blob/cffe6f574f91d87fd3e95d65e7a064aed6a1e648/public/Images/hero.png" />
  
 This project was created with CRA (Create React App)
 
