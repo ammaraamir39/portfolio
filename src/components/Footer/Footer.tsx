@@ -9,10 +9,7 @@ import instagramIcon from "../../assets/instagram.svg"
 export function Footer() {
   return (
     <Container className="footer">
-      <a
-        href="https://portfolio-7e4l9kql1-ammaraamir39s-projects.vercel.app/"
-        className="logo"
-      >
+      <a href="https://ammaraamir.vercel.app/" className="logo">
         <span>Ammar</span>
         <span>Aamir.com</span>
       </a>
